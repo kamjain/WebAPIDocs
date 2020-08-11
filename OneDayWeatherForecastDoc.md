@@ -1,3 +1,15 @@
+JSON to represent One Day weather forecast:
+```
+{  
+	"date": "2020-08-11",  
+	"description": "sunny",  
+	"maxTemp": 25,  
+	"minTemp": 20,  
+	"windSpeed": 10,  
+	"danger": false  
+}
+```
+
 This table describes the elements in a JSON file for a single day's weather forecast.
 
 |Element|Description|Type|Notes|
